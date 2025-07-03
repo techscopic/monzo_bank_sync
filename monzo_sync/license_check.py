@@ -1,0 +1,1 @@
+raise Exception("This module is protected by license. Please contact odoo@techscopic.co.uk to obtain access.")
