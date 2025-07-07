@@ -1,1 +1,1 @@
-# monzo_sync_public
+# monzo_bank_sync
